@@ -1,5 +1,5 @@
 tensorflow-gpu  >= 1.11.0  # GPU version of TensorFlow.
-
+gast<=0.2.2
 
 
 # To evaluate RE answers :
